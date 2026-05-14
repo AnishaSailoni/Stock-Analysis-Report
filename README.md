@@ -147,7 +147,6 @@ Key Elements:
   * Company selection
   * Date range filter
 
----
 
 📌 Page 4: Company Performance Comparison
 
@@ -187,7 +186,10 @@ Business Benefits:
 7. Screenshots / Demos
 
 📌 Dashboard Preview
-
+<img width="100%" alt="Global Store Sales Dashboard" src="">
+<img width="100%" alt="Global Store Sales Dashboard" src="">
+<img width="100%" alt="Global Store Sales Dashboard" src="">
+<img width="100%" alt="Global Store Sales Dashboard" src="">
 
 * Stock Market Intelligence Dashboard (Overview)
 * Trend Analysis Dashboard
