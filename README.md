@@ -186,10 +186,10 @@ Business Benefits:
 7. Screenshots / Demos
 
 📌 Dashboard Preview
-<img width="100%" alt="Global Store Sales Dashboard" src="">
-<img width="100%" alt="Global Store Sales Dashboard" src="">
-<img width="100%" alt="Global Store Sales Dashboard" src="">
-<img width="100%" alt="Global Store Sales Dashboard" src="">
+<img width="100%" alt="Global Store Sales Dashboard" src="https://github.com/AnishaSailoni/Stock-Analysis-Report/blob/main/Snapshot%20of%20Stock%20Analysis%20Report%201.png">
+<img width="100%" alt="Global Store Sales Dashboard" src="https://github.com/AnishaSailoni/Stock-Analysis-Report/blob/main/Snapshot%20of%20Stock%20Analysis%20Report%202.png">
+<img width="100%" alt="Global Store Sales Dashboard" src="https://github.com/AnishaSailoni/Stock-Analysis-Report/blob/main/Snapshot%20of%20Stock%20Analysis%20Report%203.png">
+<img width="100%" alt="Global Store Sales Dashboard" src="https://github.com/AnishaSailoni/Stock-Analysis-Report/blob/main/Snapshot%20of%20Stock%20Analysis%20Report%204.png">
 
 * Stock Market Intelligence Dashboard (Overview)
 * Trend Analysis Dashboard
