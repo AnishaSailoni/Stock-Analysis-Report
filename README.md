@@ -207,11 +207,9 @@ Dataset Generated Using: Python (yFinance)
  9. How to Use the Dashboard
 
 
-1. Download the `.pbix` file from this repository.
-2. Open it using Power BI Desktop.
-3. Use the Company slicer to filter stock-wise insights.
-4. Use the Date slicer to analyze performance within a selected time range.
-5. Observe KPI cards, charts, and tables for return, volatility, and recommendations.
+ Download the `.pbix` file from this repository.
+ Open it using Power BI Desktop.
+ Use the Company slicer to filter stock-wise insights.
+ Use the Date slicer to analyze performance within a selected time range.
+ Observe KPI cards, charts, and tables for return, volatility, and recommendations.
 
-
-If you want, I can also prepare a **perfect GitHub folder structure** for this project (dataset + screenshots + pbix + python file).
